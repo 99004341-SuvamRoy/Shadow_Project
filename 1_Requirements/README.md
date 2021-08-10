@@ -60,7 +60,7 @@ g.	Defining the System
 # Detail requirements
 ## High Level Requirements:
 |ID| Description |status|
-|--|------------|------|---------|
+|--|------------|---------|
 |HR_01 |Creating the POST Request | Implemented
 |HR_02 |Reusable Files | Implemented
 |HR_03 |Test Runner File  | Implemented
