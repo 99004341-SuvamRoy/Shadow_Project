@@ -24,7 +24,7 @@
 
 ## SWOT ANALYSIS
 
-
+https://github.com/99004341-SuvamRoy/Shadow_Project/master/1_Requirements/SWOT_ANALYSIS.png
 
 
 ## Who:
